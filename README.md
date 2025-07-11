@@ -1,1 +1,1 @@
-Final Year Porject Web application created using Flask and next.js for the tracking of weather and suerf condtions in various locations 
+Final Year Porject Web application created using Flask and next.js for the tracking of weather and surf condtions in various locations 
